@@ -1,7 +1,3 @@
 #include "hash.hpp"
 
-
-
-void Estrutura::Hash::inserirHash(){
-
-}
+void Estrutura::Hash::inserirHash() {}
